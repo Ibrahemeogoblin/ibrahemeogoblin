@@ -104,22 +104,6 @@ I am a **professional AI & full-stack developer** specializing in systems that c
 
 ---
 
-### 🔹 **Humanitarian Health AI — Offline-First Medical Guidance**
-
-**Architecture:** Progressive Web App with local-first data architecture for zero-connectivity environments.
-
-**Tech Stack:** React, IndexedDB, Service Workers, TensorFlow.js
-
-**Key Features:**
-- Symptom-based diagnostic tree with 200+ condition pathways
-- Medication dosage calculator with contraindication warnings
-- Emergency protocol guides for trauma and critical care
-- Multi-language support with cultural healthcare considerations
-
-**Impact:** Deployed in 3 rural health centers serving 15,000+ patients annually.
-
----
-
 ### 🔹 **PromptVault™ — Premium Prompt Engineering Library**
 
 **Architecture:** E-commerce platform with dynamic content delivery and subscription management.
